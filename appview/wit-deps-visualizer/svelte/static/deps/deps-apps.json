@@ -1,0 +1,2391 @@
+[
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-rel-egy-azhar-r3legyal",
+    "appId": "r3legyal",
+    "appName": "rel-egy-azhar",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-rel-intl-bahai-r3lintbh",
+    "appId": "r3lintbh",
+    "appName": "rel-intl-bahai",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-rel-intl-iskcon-r3lintis",
+    "appId": "r3lintis",
+    "appName": "rel-intl-iskcon",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-rel-intl-orthodox-r3lintox",
+    "appId": "r3lintox",
+    "appName": "rel-intl-orthodox",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-rel-intl-sgi-r3lintsg",
+    "appId": "r3lintsg",
+    "appName": "rel-intl-sgi",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-rel-intl-tibetan-r3linttb",
+    "appId": "r3linttb",
+    "appName": "rel-intl-tibetan",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-rel-intl-wfb-r3lintwfb",
+    "appId": "r3lintwfb",
+    "appName": "rel-intl-wfb",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-rel-intl-wjc-r3lintwjc",
+    "appId": "r3lintwjc",
+    "appName": "rel-intl-wjc",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-rel-isr-jewish-r3lisrjw",
+    "appId": "r3lisrjw",
+    "appName": "rel-isr-jewish",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-rel-tur-diyanet-r3lturdy",
+    "appId": "r3lturdy",
+    "appName": "rel-tur-diyanet",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-ago-provincia-4g0pr0v1",
+    "appId": "4g0pr0v1",
+    "appName": "gov-ago-provincia",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-aut-bundesland-g0vautbl",
+    "appId": "g0vautbl",
+    "appName": "gov-aut-bundesland",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-bel-region-g0vbelrg",
+    "appId": "g0vbelrg",
+    "appName": "gov-bel-region",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-blz-district-blzd1str",
+    "appId": "blzd1str",
+    "appName": "gov-blz-district",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-bra-estado-g0vbraes",
+    "appId": "g0vbraes",
+    "appName": "gov-bra-estado",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-bra-municipio-g0vbramu",
+    "appId": "g0vbramu",
+    "appName": "gov-bra-municipio",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-can-province-g0vcanpr",
+    "appId": "g0vcanpr",
+    "appName": "gov-can-province",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-che-kanton-g0vchekt",
+    "appId": "g0vchekt",
+    "appName": "gov-che-kanton",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-civ-region-c1vr3g1n",
+    "appId": "c1vr3g1n",
+    "appName": "gov-civ-region",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-cmr-region-cmrr3g1n",
+    "appId": "cmrr3g1n",
+    "appName": "gov-cmr-region",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-cod-province-c0dpr0v1",
+    "appId": "c0dpr0v1",
+    "appName": "gov-cod-province",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-dnk-faroe-g0vdnkfo",
+    "appId": "g0vdnkfo",
+    "appName": "gov-dnk-faroe",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-dnk-greenland-g0vdnkgl",
+    "appId": "g0vdnkgl",
+    "appName": "gov-dnk-greenland",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-dnk-region-g0vdnkrg",
+    "appId": "g0vdnkrg",
+    "appName": "gov-dnk-region",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-esp-comunidad-g0vespcm",
+    "appId": "g0vespcm",
+    "appName": "gov-esp-comunidad",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-eth-region-3thr3g1n",
+    "appId": "3thr3g1n",
+    "appName": "gov-eth-region",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-fin-aland-g0vfinal",
+    "appId": "g0vfinal",
+    "appName": "gov-fin-aland",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-fin-maakunta-g0vfinmk",
+    "appId": "g0vfinmk",
+    "appName": "gov-fin-maakunta",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-fsm-state-fsmst4t3",
+    "appId": "fsmst4t3",
+    "appName": "gov-fsm-state",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-gha-region-gh4r3g1n",
+    "appId": "gh4r3g1n",
+    "appName": "gov-gha-region",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-gum-village-gumv1ll4",
+    "appId": "gumv1ll4",
+    "appName": "gov-gum-village",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-ita-regione-g0vitarg",
+    "appId": "g0vitarg",
+    "appName": "gov-ita-regione",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-ken-county-k3nc0u7y",
+    "appId": "k3nc0u7y",
+    "appName": "gov-ken-county",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-kir-island-k1r1sl4n",
+    "appId": "k1r1sl4n",
+    "appName": "gov-kir-island",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-lca-quarter-lcaqu4rt",
+    "appId": "lcaqu4rt",
+    "appName": "gov-lca-quarter",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-mco-quartier-mcoqu4r7",
+    "appId": "mcoqu4r7",
+    "appName": "gov-mco-quartier",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-mdg-faritra-mdgf4r1t",
+    "appId": "mdgf4r1t",
+    "appName": "gov-mdg-faritra",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-mex-municipio-g0vmexmu",
+    "appId": "g0vmexmu",
+    "appName": "gov-mex-municipio",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-mnp-municipality-mnpmun1c",
+    "appId": "mnpmun1c",
+    "appName": "gov-mnp-municipality",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-moz-provincia-m0zpr0v1",
+    "appId": "m0zpr0v1",
+    "appName": "gov-moz-provincia",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-nld-provincie-g0vnldpv",
+    "appId": "g0vnldpv",
+    "appName": "gov-nld-provincie",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-nor-fylke-g0vnorfk",
+    "appId": "g0vnorfk",
+    "appName": "gov-nor-fylke",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-plw-state-plwst4t3",
+    "appId": "plwst4t3",
+    "appName": "gov-plw-state",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-png-province-pngpr0v1",
+    "appId": "pngpr0v1",
+    "appName": "gov-png-province",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-pol-wojewodztwo-g0vpolwv",
+    "appId": "g0vpolwv",
+    "appName": "gov-pol-wojewodztwo",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-pri-municipio-pr1mun1c",
+    "appId": "pr1mun1c",
+    "appName": "gov-pri-municipio",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-rou-judet-r0ujud3t",
+    "appId": "r0ujud3t",
+    "appName": "gov-rou-judet",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-rus-rayon-g0vrusry",
+    "appId": "g0vrusry",
+    "appName": "gov-rus-rayon",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-rwa-intara-rw4int4r",
+    "appId": "rw4int4r",
+    "appName": "gov-rwa-intara",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-sen-region-s3nr3g1n",
+    "appId": "s3nr3g1n",
+    "appName": "gov-sen-region",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-swe-lan-g0vsweln",
+    "appId": "g0vsweln",
+    "appName": "gov-swe-lan",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-syc-district-sycd1str",
+    "appId": "sycd1str",
+    "appName": "gov-syc-district",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-tha-amphoe-g0vthaap",
+    "appId": "g0vthaap",
+    "appName": "gov-tha-amphoe",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-tjk-viloyat-tjkv1l0y",
+    "appId": "tjkv1l0y",
+    "appName": "gov-tjk-viloyat",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-tls-municipio-tlsmun1c",
+    "appId": "tlsmun1c",
+    "appName": "gov-tls-municipio",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-ton-division-t0nd1v15",
+    "appId": "t0nd1v15",
+    "appName": "gov-ton-division",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-tur-ilce-g0vturic",
+    "appId": "g0vturic",
+    "appName": "gov-tur-ilce",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-tuv-island-tuvisl4n",
+    "appId": "tuvisl4n",
+    "appName": "gov-tuv-island",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-tza-mkoa-t2amk0a1",
+    "appId": "t2amk0a1",
+    "appName": "gov-tza-mkoa",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-tza-zanzibar-t2aznz8r",
+    "appId": "t2aznz8r",
+    "appName": "gov-tza-zanzibar",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-uga-district-ug4d1st1",
+    "appId": "ug4d1st1",
+    "appName": "gov-uga-district",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-usa-county-g0vusaco",
+    "appId": "g0vusaco",
+    "appName": "gov-usa-county",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-vut-province-vutpr0v1",
+    "appId": "vutpr0v1",
+    "appName": "gov-vut-province",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-wsm-itumalo-wsmitum4",
+    "appId": "wsmitum4",
+    "appName": "gov-wsm-itumalo",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-xkx-municipality-xkxmun1c",
+    "appId": "xkxmun1c",
+    "appName": "gov-xkx-municipality",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-zaf-province-z4fpr0v9",
+    "appId": "z4fpr0v9",
+    "appName": "gov-zaf-province",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-zwe-province-zw3pr0v1",
+    "appId": "zw3pr0v1",
+    "appName": "gov-zwe-province",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-tia",
+    "componentId": "tia-dsjupl3f",
+    "appId": "tia",
+    "appName": "tia",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 60,
+    "wprotoSignals": [
+      "w-commit-trigger",
+      "transport",
+      "conversation",
+      "space-config"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-kami",
+    "componentId": "etzhayyim-wasm-kami-workbench-k4m1w0rk",
+    "appId": "kami",
+    "appName": "etzhayyim-wasm-kami-workbench",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "routeHosts": [
+      "kami.etzhayyim.com",
+      "k4m1w0rk.etzhayyim.com"
+    ],
+    "wprotoIntegrationScore": 45,
+    "wprotoSignals": [
+      "transport",
+      "conversation",
+      "identity-capability"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-rel-azhar-fatwa-az020002",
+    "appId": "az020002",
+    "appName": "etzhayyim-wasm-rel-azhar-fatwa-az020002",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 40,
+    "wprotoSignals": [
+      "transport",
+      "conversation",
+      "extensions"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-rel-azhar-research-az020003",
+    "appId": "az020003",
+    "appName": "etzhayyim-wasm-rel-azhar-research-az020003",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 40,
+    "wprotoSignals": [
+      "transport",
+      "conversation",
+      "extensions"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-rel-azhar-university-az020001",
+    "appId": "az020001",
+    "appName": "etzhayyim-wasm-rel-azhar-university-az020001",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 40,
+    "wprotoSignals": [
+      "transport",
+      "conversation",
+      "extensions"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-rel-chn-taoist-r3lchntd",
+    "appId": "r3lchntd",
+    "appName": "etzhayyim-wasm-rel-chn-taoist-r3lchntd",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 40,
+    "wprotoSignals": [
+      "transport",
+      "conversation",
+      "extensions"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-rel-diyanet-education-dy020002",
+    "appId": "dy020002",
+    "appName": "etzhayyim-wasm-rel-diyanet-education-dy020002",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 40,
+    "wprotoSignals": [
+      "transport",
+      "conversation",
+      "extensions"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-rel-diyanet-fatwa-dy020003",
+    "appId": "dy020003",
+    "appName": "etzhayyim-wasm-rel-diyanet-fatwa-dy020003",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 40,
+    "wprotoSignals": [
+      "transport",
+      "conversation",
+      "extensions"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-rel-diyanet-hajj-dy020001",
+    "appId": "dy020001",
+    "appName": "etzhayyim-wasm-rel-diyanet-hajj-dy020001",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 40,
+    "wprotoSignals": [
+      "transport",
+      "conversation",
+      "extensions"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-rel-ind-hindu-r3lindhd",
+    "appId": "r3lindhd",
+    "appName": "etzhayyim-wasm-rel-ind-hindu-r3lindhd",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 40,
+    "wprotoSignals": [
+      "transport",
+      "conversation",
+      "extensions"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-rel-ind-islamic-r3lindis",
+    "appId": "r3lindis",
+    "appName": "etzhayyim-wasm-rel-ind-islamic-r3lindis",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 40,
+    "wprotoSignals": [
+      "transport",
+      "conversation",
+      "extensions"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-rel-ind-jain-r3lindjn",
+    "appId": "r3lindjn",
+    "appName": "etzhayyim-wasm-rel-ind-jain-r3lindjn",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 40,
+    "wprotoSignals": [
+      "transport",
+      "conversation",
+      "extensions"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-rel-ind-sikh-r3lindsk",
+    "appId": "r3lindsk",
+    "appName": "etzhayyim-wasm-rel-ind-sikh-r3lindsk",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 40,
+    "wprotoSignals": [
+      "transport",
+      "conversation",
+      "extensions"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-rel-ind-zoroastrian-r3lindzo",
+    "appId": "r3lindzo",
+    "appName": "etzhayyim-wasm-rel-ind-zoroastrian-r3lindzo",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 40,
+    "wprotoSignals": [
+      "transport",
+      "conversation",
+      "extensions"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-rel-intl-confucian-r3lintcf",
+    "appId": "r3lintcf",
+    "appName": "etzhayyim-wasm-rel-intl-confucian-r3lintcf",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 40,
+    "wprotoSignals": [
+      "transport",
+      "conversation",
+      "extensions"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-rel-intl-indigenous-r3lintid",
+    "appId": "r3lintid",
+    "appName": "etzhayyim-wasm-rel-intl-indigenous-r3lintid",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 40,
+    "wprotoSignals": [
+      "transport",
+      "conversation",
+      "extensions"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-rel-intl-oic-r3lintoic",
+    "appId": "r3lintoic",
+    "appName": "etzhayyim-wasm-rel-intl-oic-r3lintoic",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 40,
+    "wprotoSignals": [
+      "transport",
+      "conversation",
+      "extensions"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-rel-intl-wcc-r3lintwcc",
+    "appId": "r3lintwcc",
+    "appName": "etzhayyim-wasm-rel-intl-wcc-r3lintwcc",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 40,
+    "wprotoSignals": [
+      "transport",
+      "conversation",
+      "extensions"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-rel-jpn-buddhist-r3ljpnbd",
+    "appId": "r3ljpnbd",
+    "appName": "etzhayyim-wasm-rel-jpn-buddhist-r3ljpnbd",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 40,
+    "wprotoSignals": [
+      "transport",
+      "conversation",
+      "extensions"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-rel-jpn-christian-r3ljpncr",
+    "appId": "r3ljpncr",
+    "appName": "etzhayyim-wasm-rel-jpn-christian-r3ljpncr",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 40,
+    "wprotoSignals": [
+      "transport",
+      "conversation",
+      "extensions"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-rel-jpn-shinto-r3ljpnsh",
+    "appId": "r3ljpnsh",
+    "appName": "etzhayyim-wasm-rel-jpn-shinto-r3ljpnsh",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 40,
+    "wprotoSignals": [
+      "transport",
+      "conversation",
+      "extensions"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-rel-sau-islamic-r3lsauis",
+    "appId": "r3lsauis",
+    "appName": "etzhayyim-wasm-rel-sau-islamic-r3lsauis",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 40,
+    "wprotoSignals": [
+      "transport",
+      "conversation",
+      "extensions"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-rel-vat-bishops-vc020004",
+    "appId": "vc020004",
+    "appName": "etzhayyim-wasm-rel-vat-bishops-vc020004",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 40,
+    "wprotoSignals": [
+      "transport",
+      "conversation",
+      "extensions"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-rel-vat-catholic-r3lvatca",
+    "appId": "r3lvatca",
+    "appName": "etzhayyim-wasm-rel-vat-catholic-r3lvatca",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 40,
+    "wprotoSignals": [
+      "transport",
+      "conversation",
+      "extensions"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-rel-vat-causes-vc020006",
+    "appId": "vc020006",
+    "appName": "etzhayyim-wasm-rel-vat-causes-vc020006",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 40,
+    "wprotoSignals": [
+      "transport",
+      "conversation",
+      "extensions"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-rel-vat-development-vc020010",
+    "appId": "vc020010",
+    "appName": "etzhayyim-wasm-rel-vat-development-vc020010",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 40,
+    "wprotoSignals": [
+      "transport",
+      "conversation",
+      "extensions"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-rel-vat-doctrine-vc020002",
+    "appId": "vc020002",
+    "appName": "etzhayyim-wasm-rel-vat-doctrine-vc020002",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 40,
+    "wprotoSignals": [
+      "transport",
+      "conversation",
+      "extensions"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-rel-vat-education-vc020007",
+    "appId": "vc020007",
+    "appName": "etzhayyim-wasm-rel-vat-education-vc020007",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 40,
+    "wprotoSignals": [
+      "transport",
+      "conversation",
+      "extensions"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-rel-vat-evangelization-vc020003",
+    "appId": "vc020003",
+    "appName": "etzhayyim-wasm-rel-vat-evangelization-vc020003",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 40,
+    "wprotoSignals": [
+      "transport",
+      "conversation",
+      "extensions"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-rel-vat-interreligious-vc020008",
+    "appId": "vc020008",
+    "appName": "etzhayyim-wasm-rel-vat-interreligious-vc020008",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 40,
+    "wprotoSignals": [
+      "transport",
+      "conversation",
+      "extensions"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-rel-vat-laity-vc020009",
+    "appId": "vc020009",
+    "appName": "etzhayyim-wasm-rel-vat-laity-vc020009",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 40,
+    "wprotoSignals": [
+      "transport",
+      "conversation",
+      "extensions"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-rel-vat-penitentiary-vc020013",
+    "appId": "vc020013",
+    "appName": "etzhayyim-wasm-rel-vat-penitentiary-vc020013",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 40,
+    "wprotoSignals": [
+      "transport",
+      "conversation",
+      "extensions"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-rel-vat-rota-vc020011",
+    "appId": "vc020011",
+    "appName": "etzhayyim-wasm-rel-vat-rota-vc020011",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 40,
+    "wprotoSignals": [
+      "transport",
+      "conversation",
+      "extensions"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-rel-vat-signatura-vc020012",
+    "appId": "vc020012",
+    "appName": "etzhayyim-wasm-rel-vat-signatura-vc020012",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 40,
+    "wprotoSignals": [
+      "transport",
+      "conversation",
+      "extensions"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-rel-vat-state-vc020001",
+    "appId": "vc020001",
+    "appName": "etzhayyim-wasm-rel-vat-state-vc020001",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 40,
+    "wprotoSignals": [
+      "transport",
+      "conversation",
+      "extensions"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-rel-vat-worship-vc020005",
+    "appId": "vc020005",
+    "appName": "etzhayyim-wasm-rel-vat-worship-vc020005",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 40,
+    "wprotoSignals": [
+      "transport",
+      "conversation",
+      "extensions"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-acad-gbr-royalsoc-ac0rs001",
+    "appId": "ac0rs001",
+    "appName": "acad-gbr-royalsoc-ac0rs001",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 35,
+    "wprotoSignals": [
+      "transport",
+      "conversation"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-acad-intl-acm-ac0acm01",
+    "appId": "ac0acm01",
+    "appName": "acad-intl-acm-ac0acm01",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 35,
+    "wprotoSignals": [
+      "transport",
+      "conversation"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-acad-intl-iau-ac0iau01",
+    "appId": "ac0iau01",
+    "appName": "acad-intl-iau-ac0iau01",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 35,
+    "wprotoSignals": [
+      "transport",
+      "conversation"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-acad-intl-ieee-ac0ieee1",
+    "appId": "ac0ieee1",
+    "appName": "acad-intl-ieee-ac0ieee1",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 35,
+    "wprotoSignals": [
+      "transport",
+      "conversation"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-ngo-intl-amnesty-n0gamns1",
+    "appId": "n0gamns1",
+    "appName": "ngo-intl-amnesty-n0gamns1",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 35,
+    "wprotoSignals": [
+      "transport",
+      "conversation"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-ngo-intl-care-n0gcare1",
+    "appId": "n0gcare1",
+    "appName": "ngo-intl-care-n0gcare1",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 35,
+    "wprotoSignals": [
+      "transport",
+      "conversation"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-ngo-intl-greenpeace-n0ggrpc1",
+    "appId": "n0ggrpc1",
+    "appName": "ngo-intl-greenpeace-n0ggrpc1",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 35,
+    "wprotoSignals": [
+      "transport",
+      "conversation"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-ngo-intl-hrw-n0ghrw01",
+    "appId": "n0ghrw01",
+    "appName": "ngo-intl-hrw-n0ghrw01",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 35,
+    "wprotoSignals": [
+      "transport",
+      "conversation"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-ngo-intl-icrc-n0gicrc1",
+    "appId": "n0gicrc1",
+    "appName": "ngo-intl-icrc-n0gicrc1",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 35,
+    "wprotoSignals": [
+      "transport",
+      "conversation"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-ngo-intl-msf-n0gmsf01",
+    "appId": "n0gmsf01",
+    "appName": "ngo-intl-msf-n0gmsf01",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 35,
+    "wprotoSignals": [
+      "transport",
+      "conversation"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-ngo-intl-oxfam-n0goxfm1",
+    "appId": "n0goxfm1",
+    "appName": "ngo-intl-oxfam-n0goxfm1",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 35,
+    "wprotoSignals": [
+      "transport",
+      "conversation"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-ngo-intl-rsf-n0grsf01",
+    "appId": "n0grsf01",
+    "appName": "ngo-intl-rsf-n0grsf01",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 35,
+    "wprotoSignals": [
+      "transport",
+      "conversation"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-ngo-intl-savechildren-n0gsvc01",
+    "appId": "n0gsvc01",
+    "appName": "ngo-intl-savechildren-n0gsvc01",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 35,
+    "wprotoSignals": [
+      "transport",
+      "conversation"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-ngo-intl-wwf-n0gwwf01",
+    "appId": "n0gwwf01",
+    "appName": "ngo-intl-wwf-n0gwwf01",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 35,
+    "wprotoSignals": [
+      "transport",
+      "conversation"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-sport-intl-fiba-sp0fiba1",
+    "appId": "sp0fiba1",
+    "appName": "sport-intl-fiba-sp0fiba1",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 35,
+    "wprotoSignals": [
+      "transport",
+      "conversation"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-sport-intl-fifa-sp0fifa1",
+    "appId": "sp0fifa1",
+    "appName": "sport-intl-fifa-sp0fifa1",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 35,
+    "wprotoSignals": [
+      "transport",
+      "conversation"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-sport-intl-fih-sp0fih01",
+    "appId": "sp0fih01",
+    "appName": "sport-intl-fih-sp0fih01",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 35,
+    "wprotoSignals": [
+      "transport",
+      "conversation"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-sport-intl-fivb-sp0fivb1",
+    "appId": "sp0fivb1",
+    "appName": "sport-intl-fivb-sp0fivb1",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 35,
+    "wprotoSignals": [
+      "transport",
+      "conversation"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-sport-intl-ioc-sp0ioc01",
+    "appId": "sp0ioc01",
+    "appName": "sport-intl-ioc-sp0ioc01",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 35,
+    "wprotoSignals": [
+      "transport",
+      "conversation"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-sport-intl-itf-sp0itf01",
+    "appId": "sp0itf01",
+    "appName": "sport-intl-itf-sp0itf01",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 35,
+    "wprotoSignals": [
+      "transport",
+      "conversation"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-sport-intl-uci-sp0uci01",
+    "appId": "sp0uci01",
+    "appName": "sport-intl-uci-sp0uci01",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 35,
+    "wprotoSignals": [
+      "transport",
+      "conversation"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-sport-intl-wa-sp0wa001",
+    "appId": "sp0wa001",
+    "appName": "sport-intl-wa-sp0wa001",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 35,
+    "wprotoSignals": [
+      "transport",
+      "conversation"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-sport-intl-wada-sp0wada1",
+    "appId": "sp0wada1",
+    "appName": "sport-intl-wada-sp0wada1",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 35,
+    "wprotoSignals": [
+      "transport",
+      "conversation"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-communities",
+    "componentId": "etzhayyim-wasm-sport-intl-wr-sp0wr001",
+    "appId": "sp0wr001",
+    "appName": "sport-intl-wr-sp0wr001",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 35,
+    "wprotoSignals": [
+      "transport",
+      "conversation"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-lawyer",
+    "componentId": "etzhayyim-wasm-lawyer-lw7r3k9m",
+    "appId": "lawyer",
+    "appName": "lawyer",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 35,
+    "wprotoSignals": [
+      "transport",
+      "conversation"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-legal-entity",
+    "componentId": "etzhayyim-wasm-legal-entity-le9k4x2m",
+    "appId": "legal-entity",
+    "appName": "legal-entity",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 35,
+    "wprotoSignals": [
+      "transport",
+      "conversation"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-sanctions",
+    "componentId": "etzhayyim-wasm-sanctions-sn4c8t1x",
+    "appId": "sanctions",
+    "appName": "sanctions",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 35,
+    "wprotoSignals": [
+      "transport",
+      "conversation"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-intl-asean-g0vinta",
+    "appId": "g0vinta",
+    "appName": "gov-intl-asean",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 35,
+    "wprotoSignals": [
+      "transport",
+      "conversation"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-intl-au-g0vintau",
+    "appId": "g0vintau",
+    "appName": "gov-intl-au",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 35,
+    "wprotoSignals": [
+      "transport",
+      "conversation"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-intl-ctbto-g0vinctb",
+    "appId": "g0vinctb",
+    "appName": "gov-intl-ctbto",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 35,
+    "wprotoSignals": [
+      "transport",
+      "conversation"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-intl-eu-g0vinteu",
+    "appId": "g0vinteu",
+    "appName": "gov-intl-eu",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 35,
+    "wprotoSignals": [
+      "transport",
+      "conversation"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-intl-icc-g0vintic",
+    "appId": "g0vintic",
+    "appName": "gov-intl-icc",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 35,
+    "wprotoSignals": [
+      "transport",
+      "conversation"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-intl-ifad-g0vinifd",
+    "appId": "g0vinifd",
+    "appName": "gov-intl-ifad",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 35,
+    "wprotoSignals": [
+      "transport",
+      "conversation"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-intl-interpol-g0vintip",
+    "appId": "g0vintip",
+    "appName": "gov-intl-interpol",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 35,
+    "wprotoSignals": [
+      "transport",
+      "conversation"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-intl-iom-g0viniom",
+    "appId": "g0viniom",
+    "appName": "gov-intl-iom",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 35,
+    "wprotoSignals": [
+      "transport",
+      "conversation"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-intl-nato-g0vintn",
+    "appId": "g0vintn",
+    "appName": "gov-intl-nato",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 35,
+    "wprotoSignals": [
+      "transport",
+      "conversation"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-intl-opcw-g0vinopc",
+    "appId": "g0vinopc",
+    "appName": "gov-intl-opcw",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 35,
+    "wprotoSignals": [
+      "transport",
+      "conversation"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-intl-un-g0vintun",
+    "appId": "g0vintun",
+    "appName": "gov-intl-un",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 35,
+    "wprotoSignals": [
+      "transport",
+      "conversation"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-intl-unep-g0vinunp",
+    "appId": "g0vinunp",
+    "appName": "gov-intl-unep",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 35,
+    "wprotoSignals": [
+      "transport",
+      "conversation"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-intl-unhabitat-g0vinunh",
+    "appId": "g0vinunh",
+    "appName": "gov-intl-unhabitat",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 35,
+    "wprotoSignals": [
+      "transport",
+      "conversation"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-intl-unido-g0vinuid",
+    "appId": "g0vinuid",
+    "appName": "gov-intl-unido",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 35,
+    "wprotoSignals": [
+      "transport",
+      "conversation"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-intl-wfp-g0vinwfp",
+    "appId": "g0vinwfp",
+    "appName": "gov-intl-wfp",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 35,
+    "wprotoSignals": [
+      "transport",
+      "conversation"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-intl-wto-g0vintwt",
+    "appId": "g0vintwt",
+    "appName": "gov-intl-wto",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 35,
+    "wprotoSignals": [
+      "transport",
+      "conversation"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-nru-district-nrud1str",
+    "appId": "nrud1str",
+    "appName": "gov-nru-district",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 35,
+    "wprotoSignals": [
+      "transport",
+      "conversation"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-smr-castello-smrc4st3",
+    "appId": "smrc4st3",
+    "appName": "gov-smr-castello",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 35,
+    "wprotoSignals": [
+      "transport",
+      "conversation"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-ubo",
+    "componentId": "etzhayyim-wasm-ubo-ub0x7k2m",
+    "appId": "ubo",
+    "appName": "ubo",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 35,
+    "wprotoSignals": [
+      "transport",
+      "conversation"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-shinshi",
+    "componentId": "etzhayyim-wasm-shinshi-sh1n5h1x",
+    "appId": "shinshi",
+    "appName": "etzhayyim-wasm-shinshi",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "routeHosts": [
+      "shinshi.etzhayyim.com",
+      "sh1n5h1x.etzhayyim.com"
+    ],
+    "wprotoIntegrationScore": 30,
+    "wprotoSignals": [
+      "runtime-wit",
+      "transport"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-nru-police-nr040001",
+    "appId": "nr040001",
+    "appName": "gov-nru-police",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 20,
+    "wprotoSignals": [
+      "conversation"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-smr-guardia-sm120001",
+    "appId": "sm120001",
+    "appName": "gov-smr-guardia",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 20,
+    "wprotoSignals": [
+      "conversation"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-states",
+    "componentId": "etzhayyim-wasm-gov-smr-police-sm040001",
+    "appId": "sm040001",
+    "appName": "gov-smr-police",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 20,
+    "wprotoSignals": [
+      "conversation"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-keiba",
+    "componentId": "keiba-k8b4r2n7",
+    "appId": "keiba",
+    "appName": "keiba",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 15,
+    "wprotoSignals": [
+      "transport"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-swe",
+    "componentId": "etzhayyim-wasm-swe-sw3ng1n3",
+    "appId": "swe",
+    "appName": "swe",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true,
+    "wprotoIntegrationScore": 15,
+    "wprotoSignals": [
+      "transport"
+    ]
+  },
+  {
+    "project": "etzhayyim-project-asset-manager",
+    "componentId": "etzhayyim-wasm-asset-manager-8l9df0cy",
+    "appId": "asset-manager",
+    "appName": "asset-manager",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true
+  },
+  {
+    "project": "etzhayyim-project-global",
+    "componentId": "global-ui-w5n8p3q6",
+    "appId": "global",
+    "appName": "global",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true
+  },
+  {
+    "project": "etzhayyim-project-intel",
+    "componentId": "etzhayyim-wasm-intel-i7n73l0x",
+    "appId": "intel",
+    "appName": "intel",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true
+  },
+  {
+    "project": "etzhayyim-project-isco",
+    "componentId": "software-developers-static-component",
+    "appId": "isco",
+    "appName": "developers",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true
+  },
+  {
+    "project": "etzhayyim-project-search",
+    "componentId": "search-mcp-component",
+    "appId": "search",
+    "appName": "search",
+    "runtime": "worker",
+    "registeredApp": true,
+    "workerDeployed": true
+  }
+]

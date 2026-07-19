@@ -1,0 +1,187 @@
+{
+  "evaluated_at": "2026-03-21T12:48:59Z",
+  "source_url": "/api/deps/graph",
+  "generated_at": "2026-03-21T12:48:56.800Z",
+  "total_links": 42254,
+  "resolved_count": 26312,
+  "unresolved_count": 15942,
+  "link_coverage_rate": 0.6227,
+  "unresolved_rate": 0.3773,
+  "unresolved_by_kind": {
+    "wit-import": 15942
+  },
+  "governance_unresolved_count": 1,
+  "governance_unresolved_nodes": [
+    {
+      "project": "etzhayyim-project-states",
+      "component_id": "etzhayyim-wasm-gov-lbn-muhafazah-g0vlbnmh",
+      "unresolved_governance_refs": [
+        "etzhayyim:gov-lbn/confessional-governance@1.0.0"
+      ]
+    }
+  ],
+  "top_unresolved_nodes": [
+    {
+      "project": "etzhayyim-project-cpc",
+      "component_id": "etzhayyim-wasm-cpc-div-01-crops-d01cr1a2",
+      "unresolved_links": 14
+    },
+    {
+      "project": "etzhayyim-project-cpc",
+      "component_id": "etzhayyim-wasm-cpc-div-02-animals-d02an3b4",
+      "unresolved_links": 14
+    },
+    {
+      "project": "etzhayyim-project-cpc",
+      "component_id": "etzhayyim-wasm-cpc-div-03-forestry-d03fr5c6",
+      "unresolved_links": 14
+    },
+    {
+      "project": "etzhayyim-project-cpc",
+      "component_id": "etzhayyim-wasm-cpc-div-04-fish-d04fs7d8",
+      "unresolved_links": 14
+    },
+    {
+      "project": "etzhayyim-project-cpc",
+      "component_id": "etzhayyim-wasm-cpc-div-11-coal-d11co1e2",
+      "unresolved_links": 14
+    },
+    {
+      "project": "etzhayyim-project-cpc",
+      "component_id": "etzhayyim-wasm-cpc-div-12-petroleum-d12pe3f4",
+      "unresolved_links": 14
+    },
+    {
+      "project": "etzhayyim-project-cpc",
+      "component_id": "etzhayyim-wasm-cpc-div-13-uranium-d13ur5g6",
+      "unresolved_links": 14
+    },
+    {
+      "project": "etzhayyim-project-cpc",
+      "component_id": "etzhayyim-wasm-cpc-div-14-metal-ores-d14mo7h8",
+      "unresolved_links": 14
+    },
+    {
+      "project": "etzhayyim-project-cpc",
+      "component_id": "etzhayyim-wasm-cpc-div-15-stone-sand-d15ss9i0",
+      "unresolved_links": 14
+    },
+    {
+      "project": "etzhayyim-project-cpc",
+      "component_id": "etzhayyim-wasm-cpc-div-16-other-minerals-d16om1j2",
+      "unresolved_links": 14
+    },
+    {
+      "project": "etzhayyim-project-cpc",
+      "component_id": "etzhayyim-wasm-cpc-div-17-electricity-d17el3k4",
+      "unresolved_links": 14
+    },
+    {
+      "project": "etzhayyim-project-cpc",
+      "component_id": "etzhayyim-wasm-cpc-div-18-water-d18wa5l6",
+      "unresolved_links": 14
+    },
+    {
+      "project": "etzhayyim-project-cpc",
+      "component_id": "etzhayyim-wasm-cpc-div-21-meat-d21me1m2",
+      "unresolved_links": 14
+    },
+    {
+      "project": "etzhayyim-project-cpc",
+      "component_id": "etzhayyim-wasm-cpc-div-22-dairy-d22da3n4",
+      "unresolved_links": 14
+    },
+    {
+      "project": "etzhayyim-project-cpc",
+      "component_id": "etzhayyim-wasm-cpc-div-23-grain-d23gr5o6",
+      "unresolved_links": 14
+    }
+  ],
+  "worker_registered_app_count": 160,
+  "worker_deployed_app_count": 160,
+  "worker_deploy_coverage": 1,
+  "wproto_integration_score": 45.1,
+  "isolated_count": 417,
+  "isolated_rate": 0.1103,
+  "governance_coverage": 0.8128,
+  "raci_coverage": 0.6098,
+  "contract_score": 100,
+  "capability_export_score": 100,
+  "deps_link_score": 20,
+  "resource_flow_score": 88.4,
+  "div_score": 88.4,
+  "isolation_penalty": 11,
+  "unadapted_penalty": 28.9,
+  "scoring": {
+    "model": "overall = 45%*link_blend + 10%*dodaf_v2 + 10%*nist_csf_v2 + 5%*app_wit + 5%*contract + 5%*capability_export + 10%*deps_link + 5%*resource_flow + 5%*div; div = kotodama:div WIT coverage (DIV-3 information/documents/materiel); badge penalty = 60%*isolation + 40%*unadapted deficits, applied only when badge data is present",
+    "overall_score": 52.9,
+    "link_blend_score": 64.9,
+    "build_linker_score": 79.4,
+    "runtime_linker_score": 74.3,
+    "app_mesh_score": 34.4,
+    "runtime_host_score": 99.4,
+    "dodaf_v2_score": 94,
+    "nist_csf_v2_score": 93.1,
+    "app_wit_definition_score": 45.7,
+    "app_wit_definition_coverage": 0,
+    "contract_score": 100,
+    "capability_export_score": 100,
+    "deps_link_score": 20,
+    "resource_flow_score": 88.4,
+    "div_score": 88.4,
+    "isolation_penalty": 11,
+    "unadapted_penalty": 28.9,
+    "build_linker_factors": {
+      "link_coverage": 1,
+      "policy_coverage": 0.7939,
+      "governance_health": 0.96,
+      "rbac_coverage": 1,
+      "capability_coverage": 1,
+      "app_wit_definition_coverage": 0,
+      "runtime_import_health": 0,
+      "isolated_rate": 0.1103,
+      "governance_coverage": 0.8128,
+      "raci_coverage": 0.6098
+    },
+    "runtime_linker_factors": {
+      "link_coverage": 0.6227,
+      "policy_coverage": 0,
+      "governance_health": 0.96,
+      "rbac_coverage": 1,
+      "capability_coverage": 1,
+      "app_wit_definition_coverage": 0,
+      "runtime_import_health": 1,
+      "isolated_rate": 0,
+      "governance_coverage": 0,
+      "raci_coverage": 0
+    },
+    "app_mesh_factors": {
+      "link_coverage": 0.2,
+      "policy_coverage": 0,
+      "governance_health": 0.96,
+      "rbac_coverage": 0,
+      "capability_coverage": 0,
+      "app_wit_definition_coverage": 0,
+      "runtime_import_health": 0,
+      "isolated_rate": 0.1103,
+      "governance_coverage": 0.8128,
+      "raci_coverage": 0.6098
+    },
+    "runtime_host_factors": {
+      "link_coverage": 1,
+      "policy_coverage": 0,
+      "governance_health": 0.96,
+      "rbac_coverage": 0,
+      "capability_coverage": 0,
+      "app_wit_definition_coverage": 0,
+      "runtime_import_health": 1,
+      "isolated_rate": 0,
+      "governance_coverage": 0,
+      "raci_coverage": 0
+    },
+    "compliance_factors": {
+      "dodaf_v2": 0.94,
+      "nist_csf_v2": 0.931
+    }
+  }
+}
